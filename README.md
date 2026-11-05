@@ -40,7 +40,7 @@ Use a new output directory for each training run. Input paths in a patient manif
 5. Predict each held-out fold separately. The merge command combines five nonoverlapping held-out outputs. Its --external option averages the five decoded predictions for the same external patients, without silently dropping missing fold predictions.
 6. Apply downstream functions to explicitly aligned IDs, target axes and covariates. See [analysis interfaces](docs/analysis.md).
 
-A real study run requires the original split manifests, feature arrays, RNA/clinical inputs and resource versions. These assets and trained checkpoints are not bundled. The synthetic example does not reproduce the paper's numerical results. See [data requirements](docs/data.md).
+The [study reproduction directory](reproduction/README.md) provides the fixed TCGA partitions, CPTAC evaluation register, numerical settings and adapted comparator entry points. A real study run also requires feature arrays, RNA/clinical inputs and the specified resource versions, obtained under their providers' terms. These inputs and original trained checkpoints are not bundled. The synthetic example does not reproduce the paper's numerical results. See [data requirements](docs/data.md).
 
 ## Code map
 
