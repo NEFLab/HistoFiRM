@@ -1,0 +1,52 @@
+{
+  "preprocessing": {
+    "quality_fraction": 0.95,
+    "h_dim": 16,
+    "f_dim": 32,
+    "hidden": 16
+  },
+  "adam": {
+    "beta1": 0.9,
+    "beta2": 0.999,
+    "clip": 5,
+    "eps": 1e-8,
+    "lr": 0.001
+  },
+  "model": {
+    "family": "CHF",
+    "seed": 2026101218,
+    "lambda": 0.01,
+    "epochs": 110,
+    "risk_time_months": 36,
+    "risk_cut": 0.5204955906814106
+  },
+  "cox": {
+    "max_iterations": 3000,
+    "gradient_tolerance": 0.00001,
+    "rank_tolerance": 1e-10,
+    "min_n": 80,
+    "min_events": 40,
+    "min_events_per_parameter": 5,
+    "minimum_group_n": 20,
+    "minimum_group_events": 10,
+    "ties": "BRESLOW",
+    "risk_scale": "ONE_FROZEN_TCGA_RISK_SD",
+    "penalized": false
+  },
+  "function": {
+    "universe_n": 1564,
+    "minimum_group_n": 30,
+    "minimum_finite_fraction": 0.95,
+    "maximum_information_leverage": 0.99,
+    "primary": "C6_adjusted_mean_difference_HC3_coefficient_specific",
+    "secondary": "Mann_Whitney_two_sided_asymptotic_tie_and_continuity_corrected",
+    "reference_scale": "TCGA_corresponding_measurement_population_SD",
+    "BH_family_per_matrix": 1564,
+    "zero_tolerance": 1e-8,
+    "logFC_enabled": false,
+    "bootstrap_mean_effects": 500,
+    "bootstrap_TCGA_seed": 2026101401,
+    "bootstrap_MSK_seed": 2026101402,
+    "HL_bootstrap_enabled": false
+  }
+}
