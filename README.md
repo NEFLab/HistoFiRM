@@ -4,8 +4,6 @@ HistoFiRM predicts patient-level RNA-derived functional scores from whole-slide 
 
 This repository contains the current numerical implementation, portable training and inference commands, and the principal downstream analysis functions. It accompanies *Whole-slide histology captures interpatient variation in transcriptional programmes across human cancers*.
 
-
-
 ## Installation
 
 Python 3.10 or later is required. Install PyTorch for the intended CPU or CUDA environment, then run:
