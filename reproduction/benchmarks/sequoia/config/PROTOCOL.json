@@ -1,0 +1,59 @@
+{
+  "protocol_id": "WSI_M1B_AUTHOR_MODELS_20260913_V1",
+  "modules": {
+    "B1": "CONDITIONALLY_RELEASED"
+  },
+  "tcga_cancers": [
+    "BLCA",
+    "BRCA",
+    "CESC",
+    "COAD",
+    "GBM",
+    "HNSC",
+    "KIRC",
+    "KIRP",
+    "LIHC",
+    "LUAD",
+    "LUSC",
+    "OV",
+    "PRAD",
+    "SKCM",
+    "STAD",
+    "UCEC"
+  ],
+  "author_source": {
+    "SEQUOIA_commit": "044780b49a7bff3bf4d29d63b807b4471c32f0ba",
+    "core_sha256": "4a0fdc074f8ed9f44afe9f59a7cd5a7e793fdad077c93bb9ab5069abc072071e",
+    "reuse_before_download": true
+  },
+  "sequoia_architecture": {
+    "input_dim": 1536,
+    "depth": 6,
+    "nheads": 16,
+    "dimensions_f": 64,
+    "dimensions_s": 64,
+    "dimensions_c": 64,
+    "num_clusters": 100
+  },
+  "sequoia_training": {
+    "optimizer": "AdamW",
+    "lr": 0.001,
+    "weight_decay": 0,
+    "effective_patient_batch": 16,
+    "microbatch_slides": 4,
+    "max_epochs": 200,
+    "patience": 20,
+    "precision": "FP32_NO_AMP_NO_TF32",
+    "target_scaler": "INNER_FIT_THEN_OUTER_REFIT_TARGETWISE_MEAN_SD",
+    "feature_scaler": "NONE_RAW_UNI2H_PLUS_NATIVE_LAYERNORM",
+    "model_selection": "MIN_INNER_TCGA_TRAIN_SCALED_VALIDATION_MSE",
+    "selection_min_delta": 0,
+    "outer_refit": true,
+    "same_seed_reinitialize": true,
+    "validation_split": "REUSE_M1A_PATIENT_HASH20_WITHIN_CANCER",
+    "weights": "RANDOM_INITIALIZATION_NO_TCGA_TASK_PRETRAIN"
+  },
+  "budget": {
+    "single_unit_wall_limit_hours": 12
+  }
+}

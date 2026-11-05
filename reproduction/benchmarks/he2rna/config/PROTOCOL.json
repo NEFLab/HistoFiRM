@@ -1,0 +1,93 @@
+{
+  "protocol_id": "WSI_B3_ISOLATED_FINALMERGE_20260914_V1",
+  "B3_authorized": true,
+  "method": "HE2RNA_UNI2H_GENE_FT01",
+  "route": "GENE",
+  "tcga_cancers": [
+    "BLCA",
+    "BRCA",
+    "CESC",
+    "COAD",
+    "GBM",
+    "HNSC",
+    "KIRC",
+    "KIRP",
+    "LIHC",
+    "LUAD",
+    "LUSC",
+    "OV",
+    "PRAD",
+    "SKCM",
+    "STAD",
+    "UCEC"
+  ],
+  "cptac_counts": {
+    "BRCA": 120,
+    "COAD": 105,
+    "HNSC": 108,
+    "KIRC": 212,
+    "LUAD": 176,
+    "LUSC": 108,
+    "OV": 62,
+    "UCEC": 237
+  },
+  "he2rna_architecture": {
+    "input_dim": 1536,
+    "hidden": [
+      1024,
+      1024
+    ],
+    "dropout": 0.25,
+    "ks": [
+      1,
+      2,
+      5,
+      10,
+      20,
+      50,
+      100
+    ]
+  },
+  "he2rna_training": {
+    "optimizer": "Adam",
+    "lr": 0.0003,
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-8,
+    "weight_decay": 0,
+    "amsgrad": false,
+    "max_epochs": 200,
+    "patience": 50,
+    "effective_patient_batch": 16,
+    "precision": "FP32",
+    "allow_tf32": false,
+    "AMP": false
+  },
+  "seed": 2025,
+  "model_seed_policy": "REUSE_B1_2025_PLUS_1009_FOLD_PLUS_CANCER_SHA6",
+  "inner_split": "REUSE_M1A_FROZEN_HASH20",
+  "outer_refit": true,
+  "author_commit": "d47f481fbcaab41a49635e4a35e810bf30eae0e0",
+  "author_config_sha256": "76de43c9cd176311574373a821616f9a7c2527cc29675d614c724656d151329a",
+  "budget": {
+    "single_unit_wall_limit_hours": 12
+  },
+  "statistics": {
+    "B": 2000,
+    "seed": 20260914,
+    "min_n": 10,
+    "new_p_q_FWER": false
+  },
+  "expected": {
+    "models": 80,
+    "TCGA_patients": 6781,
+    "TCGA8_patients": 4045,
+    "CPTAC_patients": 1128,
+    "KIRC": 212,
+    "KIRC_exact": 172,
+    "genes": 18977,
+    "targets": 1564
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "protocol_id": "WSI_M1_B2_SCOPE_20260914_V1",
+  "release": {
+    "B2_DEEPPT": "CONDITIONAL_RUN"
+  },
+  "cancers": [
+    "BLCA",
+    "BRCA",
+    "CESC",
+    "COAD",
+    "GBM",
+    "HNSC",
+    "KIRC",
+    "KIRP",
+    "LIHC",
+    "LUAD",
+    "LUSC",
+    "OV",
+    "PRAD",
+    "SKCM",
+    "STAD",
+    "UCEC"
+  ],
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "deeppt": {
+    "input_dim": 1536,
+    "latent_dim": 512,
+    "patch_chunk": 512,
+    "ae": {
+      "hidden": 512,
+      "lr": 0.0001,
+      "batch_patients": 32,
+      "max_epochs": 500,
+      "patience": 25
+    },
+    "regression": {
+      "hidden": 512,
+      "dropout": 0.2,
+      "lr": 0.0001,
+      "batch_patients": 32,
+      "max_epochs": 500,
+      "patience": 50
+    },
+    "decoder": "LINEAR_SIGNED_UNI2H_ADAPTATION",
+    "selection": "MIN_TRAIN_STANDARDIZED_INNER_VALIDATION_MSE",
+    "refit": "REINIT_AE_OUTER_FOR_SELECTED_EPOCHS_THEN_REINIT_REG_OUTER_FOR_SELECTED_EPOCHS",
+    "precision": "FP32_NO_AMP_NO_TF32",
+    "task_weights": "RANDOM_INIT"
+  },
+  "budget": {
+    "unit_wall_seconds": 43200
+  }
+}

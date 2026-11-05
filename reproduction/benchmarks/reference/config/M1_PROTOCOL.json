@@ -1,0 +1,20 @@
+{
+  "TCGA_cancers": [
+    "BLCA",
+    "BRCA",
+    "CESC",
+    "COAD",
+    "GBM",
+    "HNSC",
+    "KIRC",
+    "KIRP",
+    "LIHC",
+    "LUAD",
+    "LUSC",
+    "OV",
+    "PRAD",
+    "SKCM",
+    "STAD",
+    "UCEC"
+  ]
+}

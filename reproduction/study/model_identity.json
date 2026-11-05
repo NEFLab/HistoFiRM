@@ -1,0 +1,15 @@
+{
+  "display_name": "HistoFiRM",
+  "historical_run": "S2025_AUX_ONLY",
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "target_count": 1564,
+  "main_code_commit": "4c530a2e9d45cac8edc3bc6d5fbf9e1252430c27",
+  "trained_weights_included": false,
+  "source_checkpoints_verified_internally": true
+}

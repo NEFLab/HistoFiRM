@@ -1,0 +1,39 @@
+{
+  "model": {
+    "input_dim": 1536,
+    "hidden_dim": 512,
+    "latent_dim": 256,
+    "n_targets": 1564,
+    "n_cancers": 16,
+    "adapter_rank": 16,
+    "program_count": 50,
+    "program_hidden": 128,
+    "program_score_bound": 6,
+    "aux_weight": 0.05
+  },
+  "training": {
+    "seed": 2025,
+    "alpha_grid": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "max_epochs": 120,
+    "min_epochs": 20,
+    "patience": 20,
+    "lr": 0.0001,
+    "linear_lr": 2e-05,
+    "weight_decay": 0.0001,
+    "batch_patients": 16,
+    "chunk_size": 1024,
+    "gradient_clip": 1,
+    "lr_patience": 3,
+    "lr_factor": 0.5,
+    "min_lr": 1e-06,
+    "selection_mse_ratio_limit": 1.05,
+    "selection_min_delta": 0.0001,
+    "min_epochs_after_lr_reduction": 8,
+    "min_lr_reductions": 2
+  }
+}

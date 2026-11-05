@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+scikit-learn
+h5py
+torch
+einops
+gseapy==1.3.0

@@ -1,0 +1,11282 @@
+[
+  {
+    "patient_id": "BRCA::01BR001",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR001",
+        "n_patches": 782
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR008",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR008",
+        "n_patches": 474
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR009",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR009",
+        "n_patches": 1487
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR010",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR010",
+        "n_patches": 736
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR015",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR015",
+        "n_patches": 642
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR017",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR017",
+        "n_patches": 480
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR018",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR018",
+        "n_patches": 615
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR020",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR020",
+        "n_patches": 703
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR023",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR023",
+        "n_patches": 551
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR025",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR025",
+        "n_patches": 680
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR026",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR026",
+        "n_patches": 608
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR027",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR027",
+        "n_patches": 696
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR030",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR030",
+        "n_patches": 476
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR031",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR031",
+        "n_patches": 863
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR032",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR032",
+        "n_patches": 1798
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR033",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR033",
+        "n_patches": 568
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::01BR042",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "01BR042",
+        "n_patches": 138
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR002",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR002",
+        "n_patches": 446
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR004",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR004",
+        "n_patches": 794
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR005",
+        "n_patches": 50
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR006",
+        "n_patches": 458
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR010",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR010",
+        "n_patches": 311
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR012",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR012",
+        "n_patches": 344
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::03BR013",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "03BR013",
+        "n_patches": 820
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR001",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR001",
+        "n_patches": 1274
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR003",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR003",
+        "n_patches": 517
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR004",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR004",
+        "n_patches": 448
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR005",
+        "n_patches": 688
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR009",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR009",
+        "n_patches": 1114
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR016",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR016",
+        "n_patches": 813
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR026",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR026",
+        "n_patches": 172
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR029",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR029",
+        "n_patches": 243
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR031",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR031",
+        "n_patches": 379
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR038",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR038",
+        "n_patches": 315
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR042",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR042",
+        "n_patches": 1129
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR043",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR043",
+        "n_patches": 130
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR044",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR044",
+        "n_patches": 63
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::05BR045",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "05BR045",
+        "n_patches": 53
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::06BR003",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "06BR003",
+        "n_patches": 1767
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::06BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "06BR005",
+        "n_patches": 493
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::06BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "06BR006",
+        "n_patches": 372
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::06BR014",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "06BR014",
+        "n_patches": 1057
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::09BR001",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "09BR001",
+        "n_patches": 278
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::09BR004",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "09BR004",
+        "n_patches": 2708
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::09BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "09BR005",
+        "n_patches": 1328
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::09BR007",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "09BR007",
+        "n_patches": 525
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR003",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR003",
+        "n_patches": 2979
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR004",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR004",
+        "n_patches": 4175
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR006",
+        "n_patches": 1433
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR009",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR009",
+        "n_patches": 4221
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR010",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR010",
+        "n_patches": 2803
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR011",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR011",
+        "n_patches": 2613
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR012",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR012",
+        "n_patches": 2885
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR013",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR013",
+        "n_patches": 1797
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR014",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR014",
+        "n_patches": 2645
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR015",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR015",
+        "n_patches": 2510
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR016",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR016",
+        "n_patches": 2322
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR017",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR017",
+        "n_patches": 5597
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR018",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR018",
+        "n_patches": 1743
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR019",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR019",
+        "n_patches": 2591
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR020",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR020",
+        "n_patches": 1945
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR022",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR022",
+        "n_patches": 1941
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR023",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR023",
+        "n_patches": 4774
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR024",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR024",
+        "n_patches": 2684
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR025",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR025",
+        "n_patches": 2259
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR027",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR027",
+        "n_patches": 3008
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR028",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR028",
+        "n_patches": 3518
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR030",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR030",
+        "n_patches": 1972
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR031",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR031",
+        "n_patches": 1907
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR032",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR032",
+        "n_patches": 2246
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR036",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR036",
+        "n_patches": 3253
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR038",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR038",
+        "n_patches": 2717
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR040",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR040",
+        "n_patches": 2499
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR042",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR042",
+        "n_patches": 2365
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR043",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR043",
+        "n_patches": 2425
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR044",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR044",
+        "n_patches": 1601
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR047",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR047",
+        "n_patches": 1349
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR049",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR049",
+        "n_patches": 3564
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR050",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR050",
+        "n_patches": 1883
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR051",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR051",
+        "n_patches": 1572
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR053",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR053",
+        "n_patches": 2188
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR054",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR054",
+        "n_patches": 2113
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR055",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR055",
+        "n_patches": 4258
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR056",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR056",
+        "n_patches": 3784
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR058",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR058",
+        "n_patches": 1995
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR059",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR059",
+        "n_patches": 2172
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR060",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR060",
+        "n_patches": 3818
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR069",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR069",
+        "n_patches": 3094
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR072",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR072",
+        "n_patches": 1265
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR073",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR073",
+        "n_patches": 1556
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR074",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR074",
+        "n_patches": 2393
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR075",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR075",
+        "n_patches": 1989
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::11BR080",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "11BR080",
+        "n_patches": 2210
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::13BR009",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "13BR009",
+        "n_patches": 432
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::14BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "14BR005",
+        "n_patches": 489
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::14BR008",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "14BR008",
+        "n_patches": 394
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::14BR014",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "14BR014",
+        "n_patches": 749
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::15BR003",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "15BR003",
+        "n_patches": 980
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::16BR012",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "16BR012",
+        "n_patches": 1561
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR002",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR002",
+        "n_patches": 2082
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR003",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR003",
+        "n_patches": 2700
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR004",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR004",
+        "n_patches": 2245
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR006",
+        "n_patches": 2389
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR007",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR007",
+        "n_patches": 1819
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR009",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR009",
+        "n_patches": 813
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR010",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR010",
+        "n_patches": 2039
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR016",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR016",
+        "n_patches": 1444
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR017",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR017",
+        "n_patches": 1126
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::18BR019",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "18BR019",
+        "n_patches": 1714
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR001",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR001",
+        "n_patches": 372
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR002",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR002",
+        "n_patches": 756
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR005",
+        "n_patches": 619
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR006",
+        "n_patches": 865
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR007",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR007",
+        "n_patches": 1630
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::20BR008",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "20BR008",
+        "n_patches": 1410
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::21BR001",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "21BR001",
+        "n_patches": 512
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::21BR002",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "21BR002",
+        "n_patches": 489
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::21BR010",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "21BR010",
+        "n_patches": 699
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::22BR005",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "22BR005",
+        "n_patches": 1271
+      }
+    ]
+  },
+  {
+    "patient_id": "BRCA::22BR006",
+    "cancer": "BRCA",
+    "slides": [
+      {
+        "slide_id": "22BR006",
+        "n_patches": 301
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO001",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO001",
+        "n_patches": 703
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO005",
+        "n_patches": 920
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO006",
+        "n_patches": 1294
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO008",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO008",
+        "n_patches": 824
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO013",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO013",
+        "n_patches": 765
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO014",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO014",
+        "n_patches": 699
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO015",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO015",
+        "n_patches": 1172
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO019",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO019",
+        "n_patches": 1650
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::01CO022",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "01CO022",
+        "n_patches": 923
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO002",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO002",
+        "n_patches": 619
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO003",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO003",
+        "n_patches": 439
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO005",
+        "n_patches": 715
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO006",
+        "n_patches": 1376
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO007",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO007",
+        "n_patches": 457
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO011",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO011",
+        "n_patches": 1297
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO015",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO015",
+        "n_patches": 845
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO020",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO020",
+        "n_patches": 507
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO026",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO026",
+        "n_patches": 467
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO028",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO028",
+        "n_patches": 410
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO029",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO029",
+        "n_patches": 1254
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO032",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO032",
+        "n_patches": 292
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO033",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO033",
+        "n_patches": 238
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO034",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO034",
+        "n_patches": 457
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO035",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO035",
+        "n_patches": 1234
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO037",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO037",
+        "n_patches": 706
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO039",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO039",
+        "n_patches": 724
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO041",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO041",
+        "n_patches": 967
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO044",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO044",
+        "n_patches": 558
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO045",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO045",
+        "n_patches": 877
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO047",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO047",
+        "n_patches": 1154
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO048",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO048",
+        "n_patches": 1166
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO049",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO049",
+        "n_patches": 705
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO050",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO050",
+        "n_patches": 1479
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO053",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO053",
+        "n_patches": 482
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO054",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO054",
+        "n_patches": 592
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::05CO055",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "05CO055",
+        "n_patches": 837
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::06CO001",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "06CO001",
+        "n_patches": 1625
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::06CO002",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "06CO002",
+        "n_patches": 532
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO005",
+        "n_patches": 436
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO006",
+        "n_patches": 413
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO008",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO008",
+        "n_patches": 1296
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO011",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO011",
+        "n_patches": 1700
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO013",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO013",
+        "n_patches": 1138
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO014",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO014",
+        "n_patches": 2137
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO015",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO015",
+        "n_patches": 1526
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO018",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO018",
+        "n_patches": 992
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO019",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO019",
+        "n_patches": 1361
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::09CO022",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "09CO022",
+        "n_patches": 881
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO005",
+        "n_patches": 3087
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO007",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO007",
+        "n_patches": 3025
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO008",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO008",
+        "n_patches": 2121
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO010",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO010",
+        "n_patches": 2956
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO018",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO018",
+        "n_patches": 4740
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO019",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO019",
+        "n_patches": 1538
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO020",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO020",
+        "n_patches": 1747
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO021",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO021",
+        "n_patches": 1129
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO022",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO022",
+        "n_patches": 2032
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO027",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO027",
+        "n_patches": 2234
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO030",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO030",
+        "n_patches": 742
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO031",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO031",
+        "n_patches": 2162
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO032",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO032",
+        "n_patches": 1107
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO033",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO033",
+        "n_patches": 3108
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO036",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO036",
+        "n_patches": 3313
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO037",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO037",
+        "n_patches": 1779
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO039",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO039",
+        "n_patches": 3070
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO042",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO042",
+        "n_patches": 1936
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO043",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO043",
+        "n_patches": 1357
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO044",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO044",
+        "n_patches": 2363
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO045",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO045",
+        "n_patches": 2242
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO047",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO047",
+        "n_patches": 2969
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO048",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO048",
+        "n_patches": 1538
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO051",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO051",
+        "n_patches": 1366
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO052",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO052",
+        "n_patches": 2223
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO053",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO053",
+        "n_patches": 2100
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO054",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO054",
+        "n_patches": 2439
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO057",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO057",
+        "n_patches": 2474
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO058",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO058",
+        "n_patches": 1569
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO059",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO059",
+        "n_patches": 2135
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO060",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO060",
+        "n_patches": 2269
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO061",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO061",
+        "n_patches": 2067
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO062",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO062",
+        "n_patches": 2349
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO070",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO070",
+        "n_patches": 1547
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO072",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO072",
+        "n_patches": 2565
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO077",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO077",
+        "n_patches": 1147
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::11CO079",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "11CO079",
+        "n_patches": 1634
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::14CO002",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "14CO002",
+        "n_patches": 767
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::14CO003",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "14CO003",
+        "n_patches": 685
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::14CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "14CO005",
+        "n_patches": 918
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::15CO001",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "15CO001",
+        "n_patches": 2017
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::15CO002",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "15CO002",
+        "n_patches": 1552
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::16CO002",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "16CO002",
+        "n_patches": 1936
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::16CO003",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "16CO003",
+        "n_patches": 2392
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::16CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "16CO006",
+        "n_patches": 1862
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::16CO011",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "16CO011",
+        "n_patches": 2003
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::16CO012",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "16CO012",
+        "n_patches": 1245
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::20CO001",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "20CO001",
+        "n_patches": 738
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::20CO003",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "20CO003",
+        "n_patches": 438
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::20CO004",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "20CO004",
+        "n_patches": 929
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::20CO007",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "20CO007",
+        "n_patches": 571
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::21CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "21CO006",
+        "n_patches": 584
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::21CO007",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "21CO007",
+        "n_patches": 599
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::22CO004",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "22CO004",
+        "n_patches": 439
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::22CO006",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "22CO006",
+        "n_patches": 1133
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::24CO005",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "24CO005",
+        "n_patches": 943
+      }
+    ]
+  },
+  {
+    "patient_id": "COAD::27CO004",
+    "cancer": "COAD",
+    "slides": [
+      {
+        "slide_id": "27CO004",
+        "n_patches": 1602
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00977-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00977-02",
+        "n_patches": 879
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00987-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00987-01",
+        "n_patches": 1483
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00994-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00994-04",
+        "n_patches": 1971
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00995-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00995-02",
+        "n_patches": 2680
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00997-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00997-04",
+        "n_patches": 1199
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-00999-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00999-01",
+        "n_patches": 842
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-01138-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01138-01",
+        "n_patches": 1070
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-01237-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01237-04",
+        "n_patches": 1254
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-02617-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02617-03",
+        "n_patches": 2585
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-02621-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02621-02",
+        "n_patches": 1941
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-02651-05",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02651-05",
+        "n_patches": 1748
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-03378-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03378-04",
+        "n_patches": 694
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-04025-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04025-03",
+        "n_patches": 1766
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-04354-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04354-02",
+        "n_patches": 2203
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-04791-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04791-04",
+        "n_patches": 3038
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-04844-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04844-01",
+        "n_patches": 980
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3L-04849-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04849-02",
+        "n_patches": 701
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00204-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00204-02",
+        "n_patches": 180
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00295-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00295-02",
+        "n_patches": 2572
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00297-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00297-02",
+        "n_patches": 2474
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00299-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00299-02",
+        "n_patches": 3244
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00306-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00306-02",
+        "n_patches": 2772
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00307-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00307-02",
+        "n_patches": 2678
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00498-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00498-02",
+        "n_patches": 2083
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00519-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00519-02",
+        "n_patches": 2512
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00822-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00822-01",
+        "n_patches": 266
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00825-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00825-03",
+        "n_patches": 139
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00828-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00828-04",
+        "n_patches": 4369
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00829-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00829-01",
+        "n_patches": 2749
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00846-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00846-02",
+        "n_patches": 852
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00857-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00857-01",
+        "n_patches": 377
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-00871-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00871-02",
+        "n_patches": 219
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01337-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01337-04",
+        "n_patches": 481
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01338-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01338-01",
+        "n_patches": 252
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01339-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01339-01",
+        "n_patches": 174
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01340-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01340-02",
+        "n_patches": 93
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01620-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01620-03",
+        "n_patches": 356
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01643-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01643-04",
+        "n_patches": 186
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01645-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01645-02",
+        "n_patches": 337
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01752-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01752-02",
+        "n_patches": 245
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01754-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01754-04",
+        "n_patches": 164
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01755-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01755-01",
+        "n_patches": 250
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01756-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01756-01",
+        "n_patches": 634
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01757-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01757-04",
+        "n_patches": 80
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01758-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01758-03",
+        "n_patches": 241
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01858-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01858-01",
+        "n_patches": 385
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01859-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01859-01",
+        "n_patches": 118
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01943-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01943-02",
+        "n_patches": 268
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01944-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01944-01",
+        "n_patches": 427
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01945-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01945-01",
+        "n_patches": 202
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01946-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01946-01",
+        "n_patches": 301
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01947-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01947-02",
+        "n_patches": 374
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-01948-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01948-01",
+        "n_patches": 486
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02275-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02275-03",
+        "n_patches": 233
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02279-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02279-01",
+        "n_patches": 510
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02333-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02333-02",
+        "n_patches": 4938
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02693-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02693-01",
+        "n_patches": 808
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02694-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02694-02",
+        "n_patches": 348
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02695-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02695-02",
+        "n_patches": 236
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02700-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02700-01",
+        "n_patches": 2004
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02713-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02713-03",
+        "n_patches": 2521
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02714-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02714-02",
+        "n_patches": 2720
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02716-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02716-03",
+        "n_patches": 819
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02727-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02727-02",
+        "n_patches": 2567
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02730-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02730-02",
+        "n_patches": 201
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-02925-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02925-01",
+        "n_patches": 512
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03008-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03008-01",
+        "n_patches": 571
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03009-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03009-03",
+        "n_patches": 90
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03011-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03011-01",
+        "n_patches": 409
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03012-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03012-01",
+        "n_patches": 568
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03013-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03013-01",
+        "n_patches": 516
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03015-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03015-01",
+        "n_patches": 468
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03027-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03027-01",
+        "n_patches": 497
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03028-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03028-01",
+        "n_patches": 922
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03042-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03042-04",
+        "n_patches": 1447
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03045-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03045-01",
+        "n_patches": 884
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03226-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03226-02",
+        "n_patches": 2738
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03433-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03433-02",
+        "n_patches": 399
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03456-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03456-01",
+        "n_patches": 515
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03457-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03457-02",
+        "n_patches": 513
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03458-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03458-01",
+        "n_patches": 337
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03487-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03487-02",
+        "n_patches": 630
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03490-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03490-02",
+        "n_patches": 2859
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03612-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03612-03",
+        "n_patches": 938
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03619-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03619-02",
+        "n_patches": 2482
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03620-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03620-02",
+        "n_patches": 1045
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03664-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03664-01",
+        "n_patches": 1023
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03781-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03781-01",
+        "n_patches": 236
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03782-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03782-01",
+        "n_patches": 778
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03783-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03783-01",
+        "n_patches": 1231
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03785-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03785-03",
+        "n_patches": 269
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03837-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03837-01",
+        "n_patches": 646
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03849-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03849-01",
+        "n_patches": 328
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03876-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03876-01",
+        "n_patches": 474
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03878-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03878-02",
+        "n_patches": 272
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03888-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03888-02",
+        "n_patches": 1624
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03889-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03889-02",
+        "n_patches": 2300
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03928-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03928-03",
+        "n_patches": 1954
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-03933-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03933-03",
+        "n_patches": 1465
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04152-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04152-01",
+        "n_patches": 3996
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04273-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04273-03",
+        "n_patches": 513
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04275-04",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04275-04",
+        "n_patches": 432
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04276-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04276-01",
+        "n_patches": 142
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04277-02",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04277-02",
+        "n_patches": 444
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04278-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04278-01",
+        "n_patches": 1339
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04279-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04279-01",
+        "n_patches": 501
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04280-03",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04280-03",
+        "n_patches": 764
+      }
+    ]
+  },
+  {
+    "patient_id": "HNSC::C3N-04611-01",
+    "cancer": "HNSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04611-01",
+        "n_patches": 5322
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00004",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00004",
+        "n_patches": 953
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00010",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00010",
+        "n_patches": 1120
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00011",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00011",
+        "n_patches": 511
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00026",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00026",
+        "n_patches": 834
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00079",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00079",
+        "n_patches": 494
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00088",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00088",
+        "n_patches": 1519
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00096",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00096",
+        "n_patches": 625
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00097",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00097",
+        "n_patches": 401
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00103",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00103",
+        "n_patches": 893
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00165",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00165",
+        "n_patches": 330
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00183",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00183",
+        "n_patches": 185
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00359",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00359",
+        "n_patches": 1085
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00360",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00360",
+        "n_patches": 906
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00369",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00369",
+        "n_patches": 600
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00416",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00416",
+        "n_patches": 439
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00418",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00418",
+        "n_patches": 1613
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00447",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00447",
+        "n_patches": 504
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00448",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00448",
+        "n_patches": 595
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00561",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00561",
+        "n_patches": 1569
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00581",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00581",
+        "n_patches": 823
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00583",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00583",
+        "n_patches": 1014
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00606",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00606",
+        "n_patches": 740
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00607",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00607",
+        "n_patches": 778
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00765",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00765",
+        "n_patches": 704
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00766",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00766",
+        "n_patches": 763
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00789",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00789",
+        "n_patches": 217
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00791",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00791",
+        "n_patches": 923
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00792",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00792",
+        "n_patches": 160
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00796",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00796",
+        "n_patches": 607
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00799",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00799",
+        "n_patches": 69
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00800",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00800",
+        "n_patches": 155
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00812",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00812",
+        "n_patches": 832
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00813",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00813",
+        "n_patches": 127
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00814",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00814",
+        "n_patches": 295
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00817",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00817",
+        "n_patches": 89
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00902",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00902",
+        "n_patches": 703
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00907",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00907",
+        "n_patches": 2482
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00908",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00908",
+        "n_patches": 1351
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00910",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00910",
+        "n_patches": 1559
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00917",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00917",
+        "n_patches": 573
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00966",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00966",
+        "n_patches": 2662
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00968",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00968",
+        "n_patches": 1762
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00969",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00969",
+        "n_patches": 1844
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00970",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00970",
+        "n_patches": 1806
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00976",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00976",
+        "n_patches": 1304
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00980",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00980",
+        "n_patches": 1807
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00981",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00981",
+        "n_patches": 1679
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00982",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00982",
+        "n_patches": 889
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-00991",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-00991",
+        "n_patches": 2154
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01033",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01033",
+        "n_patches": 2160
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01034",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01034",
+        "n_patches": 2215
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01102",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01102",
+        "n_patches": 745
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01106",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01106",
+        "n_patches": 1102
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01107",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01107",
+        "n_patches": 1075
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01279",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01279",
+        "n_patches": 661
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01281",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01281",
+        "n_patches": 790
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01283",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01283",
+        "n_patches": 797
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01286",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01286",
+        "n_patches": 833
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01287",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01287",
+        "n_patches": 1235
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01288",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01288",
+        "n_patches": 204
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01302",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01302",
+        "n_patches": 525
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01313",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01313",
+        "n_patches": 1404
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01352",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01352",
+        "n_patches": 511
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01459",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01459",
+        "n_patches": 276
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01462",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01462",
+        "n_patches": 945
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01464",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01464",
+        "n_patches": 676
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01465",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01465",
+        "n_patches": 1615
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01470",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01470",
+        "n_patches": 937
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01560",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01560",
+        "n_patches": 1076
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01603",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01603",
+        "n_patches": 1007
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01607",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01607",
+        "n_patches": 791
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01665",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01665",
+        "n_patches": 2094
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01676",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01676",
+        "n_patches": 860
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01681",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01681",
+        "n_patches": 1583
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01836",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01836",
+        "n_patches": 2457
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01861",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01861",
+        "n_patches": 419
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01869",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01869",
+        "n_patches": 419
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01882",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01882",
+        "n_patches": 897
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01885",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01885",
+        "n_patches": 339
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01951",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01951",
+        "n_patches": 331
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01952",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01952",
+        "n_patches": 538
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01954",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01954",
+        "n_patches": 648
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01958",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01958",
+        "n_patches": 303
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01976",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01976",
+        "n_patches": 448
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-01978",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-01978",
+        "n_patches": 471
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02175",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02175",
+        "n_patches": 278
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02176",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02176",
+        "n_patches": 1200
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02201",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02201",
+        "n_patches": 232
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02208",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02208",
+        "n_patches": 905
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02211",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02211",
+        "n_patches": 629
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02214",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02214",
+        "n_patches": 1389
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02220",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02220",
+        "n_patches": 1933
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02346",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02346",
+        "n_patches": 2609
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02352",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02352",
+        "n_patches": 1639
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02364",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02364",
+        "n_patches": 415
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02544",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02544",
+        "n_patches": 1009
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02551",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02551",
+        "n_patches": 788
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02553",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02553",
+        "n_patches": 309
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02556",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02556",
+        "n_patches": 238
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02841",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02841",
+        "n_patches": 974
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02842",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02842",
+        "n_patches": 703
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02856",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02856",
+        "n_patches": 819
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3L-02857",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3L-02857",
+        "n_patches": 857
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00148",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00148",
+        "n_patches": 2347
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00149",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00149",
+        "n_patches": 1319
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00150",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00150",
+        "n_patches": 1639
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00154",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00154",
+        "n_patches": 2074
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00168",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00168",
+        "n_patches": 3437
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00177",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00177",
+        "n_patches": 1807
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00194",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00194",
+        "n_patches": 674
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00242",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00242",
+        "n_patches": 1351
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00244",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00244",
+        "n_patches": 314
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00246",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00246",
+        "n_patches": 209
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00305",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00305",
+        "n_patches": 3372
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00310",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00310",
+        "n_patches": 5483
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00312",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00312",
+        "n_patches": 4426
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00313",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00313",
+        "n_patches": 3745
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00314",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00314",
+        "n_patches": 2904
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00315",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00315",
+        "n_patches": 3742
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00317",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00317",
+        "n_patches": 3248
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00320",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00320",
+        "n_patches": 2872
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00380",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00380",
+        "n_patches": 2087
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00390",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00390",
+        "n_patches": 1798
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00435",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00435",
+        "n_patches": 2274
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00437",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00437",
+        "n_patches": 3756
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00491",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00491",
+        "n_patches": 3113
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00492",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00492",
+        "n_patches": 4274
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00494",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00494",
+        "n_patches": 5574
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00495",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00495",
+        "n_patches": 436
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00573",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00573",
+        "n_patches": 1294
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00577",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00577",
+        "n_patches": 1697
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00646",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00646",
+        "n_patches": 3293
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00647",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00647",
+        "n_patches": 4448
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00715",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00715",
+        "n_patches": 1224
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00721",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00721",
+        "n_patches": 2051
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00733",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00733",
+        "n_patches": 1440
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00831",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00831",
+        "n_patches": 598
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00832",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00832",
+        "n_patches": 283
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00834",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00834",
+        "n_patches": 158
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00852",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00852",
+        "n_patches": 1718
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-00953",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-00953",
+        "n_patches": 681
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01077",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01077",
+        "n_patches": 3334
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01078",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01078",
+        "n_patches": 3562
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01080",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01080",
+        "n_patches": 3418
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01081",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01081",
+        "n_patches": 3162
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01082",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01082",
+        "n_patches": 2904
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01083",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01083",
+        "n_patches": 2910
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01085",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01085",
+        "n_patches": 3290
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01086",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01086",
+        "n_patches": 2861
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01088",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01088",
+        "n_patches": 4799
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01090",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01090",
+        "n_patches": 2661
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01091",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01091",
+        "n_patches": 4282
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01175",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01175",
+        "n_patches": 490
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01176",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01176",
+        "n_patches": 545
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01178",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01178",
+        "n_patches": 457
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01179",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01179",
+        "n_patches": 615
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01180",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01180",
+        "n_patches": 631
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01200",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01200",
+        "n_patches": 1271
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01213",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01213",
+        "n_patches": 961
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01214",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01214",
+        "n_patches": 1437
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01220",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01220",
+        "n_patches": 1765
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01261",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01261",
+        "n_patches": 1524
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01361",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01361",
+        "n_patches": 244
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01522",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01522",
+        "n_patches": 855
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01524",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01524",
+        "n_patches": 966
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01536",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01536",
+        "n_patches": 1280
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01646",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01646",
+        "n_patches": 370
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01648",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01648",
+        "n_patches": 232
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01649",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01649",
+        "n_patches": 402
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01651",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01651",
+        "n_patches": 659
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01654",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01654",
+        "n_patches": 770
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01655",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01655",
+        "n_patches": 365
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01656",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01656",
+        "n_patches": 363
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01657",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01657",
+        "n_patches": 446
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01806",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01806",
+        "n_patches": 1710
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01808",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01808",
+        "n_patches": 498
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01828",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01828",
+        "n_patches": 1090
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01902",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01902",
+        "n_patches": 497
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01905",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01905",
+        "n_patches": 360
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-01989",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-01989",
+        "n_patches": 1035
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02005",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02005",
+        "n_patches": 213
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02015",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02015",
+        "n_patches": 1009
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02066",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02066",
+        "n_patches": 435
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02068",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02068",
+        "n_patches": 319
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02070",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02070",
+        "n_patches": 464
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02082",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02082",
+        "n_patches": 418
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02084",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02084",
+        "n_patches": 837
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02085",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02085",
+        "n_patches": 228
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02160",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02160",
+        "n_patches": 3221
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02224",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02224",
+        "n_patches": 4938
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02248",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02248",
+        "n_patches": 1456
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02262",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02262",
+        "n_patches": 747
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02263",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02263",
+        "n_patches": 528
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02264",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02264",
+        "n_patches": 494
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02265",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02265",
+        "n_patches": 671
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02266",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02266",
+        "n_patches": 278
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02332",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02332",
+        "n_patches": 2313
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02338",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02338",
+        "n_patches": 190
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02429",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02429",
+        "n_patches": 384
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02431",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02431",
+        "n_patches": 920
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02439",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02439",
+        "n_patches": 1996
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02577",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02577",
+        "n_patches": 924
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02723",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02723",
+        "n_patches": 3184
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02726",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02726",
+        "n_patches": 3340
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02761",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02761",
+        "n_patches": 433
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02763",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02763",
+        "n_patches": 676
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02811",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02811",
+        "n_patches": 1764
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-02945",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-02945",
+        "n_patches": 2829
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-03018",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-03018",
+        "n_patches": 1384
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-03019",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-03019",
+        "n_patches": 1057
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-03020",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-03020",
+        "n_patches": 226
+      }
+    ]
+  },
+  {
+    "patient_id": "KIRC::C3N-03021",
+    "cancer": "KIRC",
+    "slides": [
+      {
+        "slide_id": "C3N-03021",
+        "n_patches": 106
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::11LU013",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "11LU013",
+        "n_patches": 2940
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::11LU016",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "11LU016",
+        "n_patches": 5106
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::11LU022",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "11LU022",
+        "n_patches": 3709
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::11LU035",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "11LU035",
+        "n_patches": 2882
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00001",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00001",
+        "n_patches": 1229
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00009",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00009",
+        "n_patches": 840
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00080",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00080",
+        "n_patches": 1408
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00083",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00083",
+        "n_patches": 1126
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00093",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00093",
+        "n_patches": 1022
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00094",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00094",
+        "n_patches": 1826
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00095",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00095",
+        "n_patches": 941
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00140",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00140",
+        "n_patches": 1481
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00144",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00144",
+        "n_patches": 1389
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00263",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00263",
+        "n_patches": 308
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00279",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00279",
+        "n_patches": 1279
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00368",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00368",
+        "n_patches": 789
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00412",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00412",
+        "n_patches": 2447
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00422",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00422",
+        "n_patches": 411
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00444",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00444",
+        "n_patches": 4993
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00446",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00446",
+        "n_patches": 6510
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00510",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00510",
+        "n_patches": 664
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00604",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00604",
+        "n_patches": 494
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00893",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00893",
+        "n_patches": 424
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00913",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00913",
+        "n_patches": 918
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-00973",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-00973",
+        "n_patches": 2632
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01330",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01330",
+        "n_patches": 709
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01632",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01632",
+        "n_patches": 1066
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01682",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01682",
+        "n_patches": 340
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01683",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01683",
+        "n_patches": 2127
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01862",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01862",
+        "n_patches": 524
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01889",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01889",
+        "n_patches": 802
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01890",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01890",
+        "n_patches": 570
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-01924",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-01924",
+        "n_patches": 1360
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02129",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02129",
+        "n_patches": 484
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02165",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02165",
+        "n_patches": 6431
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02169",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02169",
+        "n_patches": 2304
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02219",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02219",
+        "n_patches": 548
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02345",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02345",
+        "n_patches": 713
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02348",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02348",
+        "n_patches": 1468
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02350",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02350",
+        "n_patches": 799
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02365",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02365",
+        "n_patches": 700
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02508",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02508",
+        "n_patches": 484
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02513",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02513",
+        "n_patches": 501
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02515",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02515",
+        "n_patches": 363
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02549",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02549",
+        "n_patches": 1195
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02559",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02559",
+        "n_patches": 303
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02560",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02560",
+        "n_patches": 446
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02601",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02601",
+        "n_patches": 408
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02616",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02616",
+        "n_patches": 2078
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02643",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02643",
+        "n_patches": 1332
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02654",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02654",
+        "n_patches": 1796
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02661",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02661",
+        "n_patches": 2243
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02834",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02834",
+        "n_patches": 582
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02893",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02893",
+        "n_patches": 1231
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02954",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02954",
+        "n_patches": 999
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02957",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02957",
+        "n_patches": 2364
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02958",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02958",
+        "n_patches": 858
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02961",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02961",
+        "n_patches": 281
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-02967",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-02967",
+        "n_patches": 378
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03262",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03262",
+        "n_patches": 222
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03268",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03268",
+        "n_patches": 733
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03271",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03271",
+        "n_patches": 496
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03462",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03462",
+        "n_patches": 415
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03463",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03463",
+        "n_patches": 3519
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03642",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03642",
+        "n_patches": 516
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03679",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03679",
+        "n_patches": 2183
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03717",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03717",
+        "n_patches": 4306
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03721",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03721",
+        "n_patches": 3135
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03726",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03726",
+        "n_patches": 1099
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03969",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03969",
+        "n_patches": 1629
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03976",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03976",
+        "n_patches": 2496
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03984",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03984",
+        "n_patches": 1066
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-03985",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-03985",
+        "n_patches": 2307
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04031",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04031",
+        "n_patches": 3093
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04033",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04033",
+        "n_patches": 2023
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04037",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04037",
+        "n_patches": 2340
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04040",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04040",
+        "n_patches": 1227
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04365",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04365",
+        "n_patches": 1275
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04757",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04757",
+        "n_patches": 929
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3L-04759",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3L-04759",
+        "n_patches": 1719
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00167",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00167",
+        "n_patches": 6214
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00169",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00169",
+        "n_patches": 3262
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00175",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00175",
+        "n_patches": 2210
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00180",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00180",
+        "n_patches": 3620
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00199",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00199",
+        "n_patches": 1909
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00203",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00203",
+        "n_patches": 667
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00217",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00217",
+        "n_patches": 624
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00223",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00223",
+        "n_patches": 1471
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00293",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00293",
+        "n_patches": 3888
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00294",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00294",
+        "n_patches": 3838
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00433",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00433",
+        "n_patches": 1319
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00545",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00545",
+        "n_patches": 2578
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00546",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00546",
+        "n_patches": 3643
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00547",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00547",
+        "n_patches": 3706
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00549",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00549",
+        "n_patches": 3483
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00550",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00550",
+        "n_patches": 1652
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00551",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00551",
+        "n_patches": 3987
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00552",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00552",
+        "n_patches": 2702
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00556",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00556",
+        "n_patches": 2128
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00559",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00559",
+        "n_patches": 2962
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-00560",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-00560",
+        "n_patches": 3546
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01019",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01019",
+        "n_patches": 5050
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01022",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01022",
+        "n_patches": 6691
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01408",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01408",
+        "n_patches": 5580
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01409",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01409",
+        "n_patches": 5556
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01417",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01417",
+        "n_patches": 5157
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-01419",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-01419",
+        "n_patches": 2739
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02088",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02088",
+        "n_patches": 4482
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02090",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02090",
+        "n_patches": 4694
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02141",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02141",
+        "n_patches": 4786
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02142",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02142",
+        "n_patches": 4258
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02143",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02143",
+        "n_patches": 7509
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02144",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02144",
+        "n_patches": 4410
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02146",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02146",
+        "n_patches": 4923
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02150",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02150",
+        "n_patches": 4623
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02152",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02152",
+        "n_patches": 3652
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02153",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02153",
+        "n_patches": 4760
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02192",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02192",
+        "n_patches": 556
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02193",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02193",
+        "n_patches": 1075
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02230",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02230",
+        "n_patches": 6448
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02234",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02234",
+        "n_patches": 6862
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02237",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02237",
+        "n_patches": 7476
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02240",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02240",
+        "n_patches": 7378
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02242",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02242",
+        "n_patches": 4999
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02281",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02281",
+        "n_patches": 539
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02290",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02290",
+        "n_patches": 1031
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02451",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02451",
+        "n_patches": 282
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02672",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02672",
+        "n_patches": 1157
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02715",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02715",
+        "n_patches": 1482
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02718",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02718",
+        "n_patches": 1263
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02721",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02721",
+        "n_patches": 3956
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02728",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02728",
+        "n_patches": 997
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02757",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02757",
+        "n_patches": 618
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02758",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02758",
+        "n_patches": 476
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02764",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02764",
+        "n_patches": 808
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02828",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02828",
+        "n_patches": 7558
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02916",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02916",
+        "n_patches": 7722
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02919",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02919",
+        "n_patches": 5750
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02920",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02920",
+        "n_patches": 5863
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02922",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02922",
+        "n_patches": 4506
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02923",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02923",
+        "n_patches": 6584
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02926",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02926",
+        "n_patches": 429
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02928",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02928",
+        "n_patches": 868
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02929",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02929",
+        "n_patches": 530
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02948",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02948",
+        "n_patches": 1761
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02950",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02950",
+        "n_patches": 868
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-02973",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-02973",
+        "n_patches": 979
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03038",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03038",
+        "n_patches": 626
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03052",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03052",
+        "n_patches": 1199
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03054",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03054",
+        "n_patches": 461
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03057",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03057",
+        "n_patches": 328
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03063",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03063",
+        "n_patches": 980
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03073",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03073",
+        "n_patches": 529
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03074",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03074",
+        "n_patches": 722
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03080",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03080",
+        "n_patches": 868
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03202",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03202",
+        "n_patches": 895
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03205",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03205",
+        "n_patches": 858
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03210",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03210",
+        "n_patches": 541
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03212",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03212",
+        "n_patches": 399
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03222",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03222",
+        "n_patches": 2003
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03225",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03225",
+        "n_patches": 1828
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03233",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03233",
+        "n_patches": 2206
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03238",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03238",
+        "n_patches": 1178
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03420",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03420",
+        "n_patches": 1471
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03764",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03764",
+        "n_patches": 782
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03765",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03765",
+        "n_patches": 462
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03890",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03890",
+        "n_patches": 1876
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03911",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03911",
+        "n_patches": 3953
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03921",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03921",
+        "n_patches": 3288
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-03929",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-03929",
+        "n_patches": 2408
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04157",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04157",
+        "n_patches": 3317
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04168",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04168",
+        "n_patches": 3141
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04173",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04173",
+        "n_patches": 1368
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04176",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04176",
+        "n_patches": 142
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04180",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04180",
+        "n_patches": 530
+      }
+    ]
+  },
+  {
+    "patient_id": "LUAD::C3N-04382",
+    "cancer": "LUAD",
+    "slides": [
+      {
+        "slide_id": "C3N-04382",
+        "n_patches": 897
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00081",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00081",
+        "n_patches": 873
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00415",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00415",
+        "n_patches": 1724
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00445",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00445",
+        "n_patches": 8507
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00568",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00568",
+        "n_patches": 458
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00603",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00603",
+        "n_patches": 540
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00904",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00904",
+        "n_patches": 1562
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00923",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00923",
+        "n_patches": 836
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00927",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00927",
+        "n_patches": 874
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00965",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00965",
+        "n_patches": 903
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-00993",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-00993",
+        "n_patches": 1407
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01000",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01000",
+        "n_patches": 4551
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01285",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01285",
+        "n_patches": 885
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01455",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01455",
+        "n_patches": 1157
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01606",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01606",
+        "n_patches": 1161
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01663",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01663",
+        "n_patches": 338
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01838",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01838",
+        "n_patches": 602
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-01884",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-01884",
+        "n_patches": 585
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02127",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02127",
+        "n_patches": 2488
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02130",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02130",
+        "n_patches": 4648
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02163",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02163",
+        "n_patches": 3689
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02164",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02164",
+        "n_patches": 1319
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02168",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02168",
+        "n_patches": 5075
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02170",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02170",
+        "n_patches": 5374
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02349",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02349",
+        "n_patches": 1940
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02358",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02358",
+        "n_patches": 1119
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02546",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02546",
+        "n_patches": 341
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02552",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02552",
+        "n_patches": 483
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02619",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02619",
+        "n_patches": 2336
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02625",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02625",
+        "n_patches": 1780
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02627",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02627",
+        "n_patches": 2256
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02629",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02629",
+        "n_patches": 1652
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02646",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02646",
+        "n_patches": 805
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02648",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02648",
+        "n_patches": 3289
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02649",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02649",
+        "n_patches": 1114
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02650",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02650",
+        "n_patches": 1569
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02660",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02660",
+        "n_patches": 3033
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02665",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02665",
+        "n_patches": 830
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02669",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02669",
+        "n_patches": 914
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02891",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02891",
+        "n_patches": 333
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02951",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02951",
+        "n_patches": 965
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02963",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02963",
+        "n_patches": 832
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02964",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02964",
+        "n_patches": 681
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02968",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02968",
+        "n_patches": 1765
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-02969",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-02969",
+        "n_patches": 1253
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03272",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03272",
+        "n_patches": 772
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03678",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03678",
+        "n_patches": 282
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03961__C3L-03961-02",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03961__C3L-03961-02",
+        "n_patches": 2023
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03962",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03962",
+        "n_patches": 1901
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03963",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03963",
+        "n_patches": 2875
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-03965",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-03965",
+        "n_patches": 2344
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-04013",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04013",
+        "n_patches": 2883
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-04014",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04014",
+        "n_patches": 4113
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-04071",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04071",
+        "n_patches": 176
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3L-04391",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3L-04391",
+        "n_patches": 255
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-00211",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00211",
+        "n_patches": 585
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-00221",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00221",
+        "n_patches": 667
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-00247",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00247",
+        "n_patches": 1015
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-00497",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00497",
+        "n_patches": 547
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-00555",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-00555",
+        "n_patches": 3213
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01017",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01017",
+        "n_patches": 3044
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01020",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01020",
+        "n_patches": 6081
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01025",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01025",
+        "n_patches": 4211
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01028",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01028",
+        "n_patches": 5294
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01194",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01194",
+        "n_patches": 411
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01411",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01411",
+        "n_patches": 3169
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01846",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01846",
+        "n_patches": 712
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01892",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01892",
+        "n_patches": 422
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-01893",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-01893",
+        "n_patches": 550
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02252",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02252",
+        "n_patches": 1001
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02283",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02283",
+        "n_patches": 408
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02284",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02284",
+        "n_patches": 319
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02285",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02285",
+        "n_patches": 553
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02288",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02288",
+        "n_patches": 476
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02289",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02289",
+        "n_patches": 849
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02300",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02300",
+        "n_patches": 133
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02339",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02339",
+        "n_patches": 1611
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02374",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02374",
+        "n_patches": 1995
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02375",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02375",
+        "n_patches": 1315
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02425",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02425",
+        "n_patches": 3278
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02426",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02426",
+        "n_patches": 818
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02434",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02434",
+        "n_patches": 553
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02435",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02435",
+        "n_patches": 888
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02494",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02494",
+        "n_patches": 2146
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02523",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02523",
+        "n_patches": 789
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02575",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02575",
+        "n_patches": 2012
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-02675",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-02675",
+        "n_patches": 389
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03051",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03051",
+        "n_patches": 654
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03072",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03072",
+        "n_patches": 584
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03076",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03076",
+        "n_patches": 1312
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03092",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03092",
+        "n_patches": 2013
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03093",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03093",
+        "n_patches": 1737
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03204",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03204",
+        "n_patches": 438
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03424",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03424",
+        "n_patches": 698
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03425",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03425",
+        "n_patches": 1139
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03441",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03441",
+        "n_patches": 528
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03486",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03486",
+        "n_patches": 581
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03662",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03662",
+        "n_patches": 3517
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03848",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03848",
+        "n_patches": 275
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03851",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03851",
+        "n_patches": 477
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03875",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03875",
+        "n_patches": 1275
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03877",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03877",
+        "n_patches": 640
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03880",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03880",
+        "n_patches": 948
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03882",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03882",
+        "n_patches": 112
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-03886",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-03886",
+        "n_patches": 3077
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-04124",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04124",
+        "n_patches": 1394
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-04127",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04127",
+        "n_patches": 654
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-04155",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04155",
+        "n_patches": 1702
+      }
+    ]
+  },
+  {
+    "patient_id": "LUSC::C3N-04162",
+    "cancer": "LUSC",
+    "slides": [
+      {
+        "slide_id": "C3N-04162",
+        "n_patches": 3535
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV002",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000000",
+        "n_patches": 839
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV007",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000001",
+        "n_patches": 1313
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV008",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000002",
+        "n_patches": 870
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV010",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000003",
+        "n_patches": 951
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV013",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000004",
+        "n_patches": 578
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV017",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000005",
+        "n_patches": 1885
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV018",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000006",
+        "n_patches": 1076
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV019",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000007",
+        "n_patches": 692
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV023",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000008",
+        "n_patches": 833
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV026",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000009",
+        "n_patches": 1263
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV030",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000010",
+        "n_patches": 1057
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV039",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000011",
+        "n_patches": 1950
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV041",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000012",
+        "n_patches": 1020
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV045",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000013",
+        "n_patches": 1509
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV047",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000014",
+        "n_patches": 1292
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::01OV049",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000015",
+        "n_patches": 921
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV005",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000016",
+        "n_patches": 538
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV006",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000017",
+        "n_patches": 647
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV008",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000018",
+        "n_patches": 545
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV015",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000019",
+        "n_patches": 582
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV022",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000020",
+        "n_patches": 843
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV023",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000021",
+        "n_patches": 667
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV029",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000022",
+        "n_patches": 655
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV032",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000023",
+        "n_patches": 1067
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::02OV035",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000024",
+        "n_patches": 315
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV001",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000025",
+        "n_patches": 1626
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV004",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000026",
+        "n_patches": 1770
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV005",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000027",
+        "n_patches": 3208
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV008",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000028",
+        "n_patches": 1344
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV011",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000029",
+        "n_patches": 828
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV012",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000030",
+        "n_patches": 1195
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV013",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000031",
+        "n_patches": 1117
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV017",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000032",
+        "n_patches": 1687
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV018",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000033",
+        "n_patches": 873
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV021",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000034",
+        "n_patches": 1316
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV023",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000035",
+        "n_patches": 1706
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV024",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000036",
+        "n_patches": 1552
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV027",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000037",
+        "n_patches": 1115
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV028",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000038",
+        "n_patches": 3303
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV031",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000039",
+        "n_patches": 1688
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::04OV033",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000040",
+        "n_patches": 1636
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::11OV002",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000041",
+        "n_patches": 3762
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::13OV003",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000042",
+        "n_patches": 771
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::13OV004",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000043",
+        "n_patches": 854
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::14OV011",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000044",
+        "n_patches": 1561
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::15OV001",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000045",
+        "n_patches": 3276
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV001",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000046",
+        "n_patches": 1246
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV002",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000047",
+        "n_patches": 1558
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV010",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000048",
+        "n_patches": 536
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV011",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000049",
+        "n_patches": 1635
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV013",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000050",
+        "n_patches": 1270
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV014",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000051",
+        "n_patches": 2438
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV015",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000052",
+        "n_patches": 1736
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV017",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000053",
+        "n_patches": 1582
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV018",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000054",
+        "n_patches": 2340
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV019",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000055",
+        "n_patches": 985
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV025",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000056",
+        "n_patches": 1194
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::17OV027",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000057",
+        "n_patches": 1384
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::18OV001",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000058",
+        "n_patches": 1667
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::20OV005",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000059",
+        "n_patches": 1246
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::22OV001",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000060",
+        "n_patches": 462
+      }
+    ]
+  },
+  {
+    "patient_id": "OV::26OV002",
+    "cancer": "OV",
+    "slides": [
+      {
+        "slide_id": "slide_000061",
+        "n_patches": 874
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00006-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00006-01",
+        "n_patches": 829
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00008-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00008-01",
+        "n_patches": 874
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00032-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00032-01",
+        "n_patches": 789
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00086-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00086-01",
+        "n_patches": 695
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00090-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00090-01",
+        "n_patches": 478
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00098-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00098-02",
+        "n_patches": 1087
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00136-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00136-03",
+        "n_patches": 487
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00137-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00137-02",
+        "n_patches": 700
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00139-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00139-01",
+        "n_patches": 654
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00143-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00143-01",
+        "n_patches": 335
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00145-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00145-02",
+        "n_patches": 611
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00156-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00156-02",
+        "n_patches": 1344
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00157-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00157-02",
+        "n_patches": 421
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00161-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00161-02",
+        "n_patches": 575
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00356-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00356-01",
+        "n_patches": 470
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00358-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00358-01",
+        "n_patches": 1700
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00361-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00361-01",
+        "n_patches": 476
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00362-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00362-02",
+        "n_patches": 1844
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00413-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00413-01",
+        "n_patches": 470
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00449-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00449-01",
+        "n_patches": 460
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00563-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00563-03",
+        "n_patches": 260
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00586-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00586-03",
+        "n_patches": 647
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00601-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00601-02",
+        "n_patches": 798
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00605-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00605-01",
+        "n_patches": 580
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00767-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00767-01",
+        "n_patches": 1204
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00769-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00769-01",
+        "n_patches": 582
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00770-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00770-01",
+        "n_patches": 874
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00771-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00771-01",
+        "n_patches": 981
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00780-05",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00780-05",
+        "n_patches": 175
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00781-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00781-04",
+        "n_patches": 535
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00898-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00898-02",
+        "n_patches": 328
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00905-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00905-02",
+        "n_patches": 673
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00918-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00918-01",
+        "n_patches": 309
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00921-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00921-03",
+        "n_patches": 409
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00932-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00932-01",
+        "n_patches": 269
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00938-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00938-01",
+        "n_patches": 898
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00942-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00942-01",
+        "n_patches": 266
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00943-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00943-01",
+        "n_patches": 317
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00946-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00946-01",
+        "n_patches": 447
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00947-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00947-01",
+        "n_patches": 292
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00949-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00949-01",
+        "n_patches": 356
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00961-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00961-01",
+        "n_patches": 1051
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-00963-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-00963-01",
+        "n_patches": 296
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01064-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01064-01",
+        "n_patches": 2350
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01246-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01246-01",
+        "n_patches": 633
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01247-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01247-01",
+        "n_patches": 748
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01248-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01248-01",
+        "n_patches": 400
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01249-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01249-01",
+        "n_patches": 981
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01252-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01252-01",
+        "n_patches": 399
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01253-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01253-01",
+        "n_patches": 473
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01256-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01256-01",
+        "n_patches": 1114
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01257-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01257-01",
+        "n_patches": 350
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01275-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01275-01",
+        "n_patches": 273
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01277-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01277-01",
+        "n_patches": 952
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01282-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01282-01",
+        "n_patches": 684
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01304-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01304-01",
+        "n_patches": 595
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01307-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01307-01",
+        "n_patches": 371
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01311-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01311-01",
+        "n_patches": 817
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01312-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01312-01",
+        "n_patches": 589
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01355-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01355-02",
+        "n_patches": 578
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01599-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01599-02",
+        "n_patches": 380
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01631-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01631-01",
+        "n_patches": 446
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01633-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01633-02",
+        "n_patches": 676
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01639-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01639-01",
+        "n_patches": 369
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01664-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01664-01",
+        "n_patches": 545
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01668-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01668-01",
+        "n_patches": 246
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01672-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01672-01",
+        "n_patches": 413
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01729-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01729-01",
+        "n_patches": 474
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01732-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01732-01",
+        "n_patches": 571
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01739-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01739-01",
+        "n_patches": 601
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01744-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01744-01",
+        "n_patches": 868
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01749-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01749-01",
+        "n_patches": 2124
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01833-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01833-01",
+        "n_patches": 1355
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01840-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01840-02",
+        "n_patches": 645
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01864-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01864-02",
+        "n_patches": 195
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01913-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01913-01",
+        "n_patches": 897
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01925-07",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01925-07",
+        "n_patches": 2056
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-01967-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-01967-02",
+        "n_patches": 851
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02119-06",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02119-06",
+        "n_patches": 2183
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02121-06",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02121-06",
+        "n_patches": 2105
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02125-07",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02125-07",
+        "n_patches": 519
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02216-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02216-01",
+        "n_patches": 644
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02347-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02347-02",
+        "n_patches": 282
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02353-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02353-01",
+        "n_patches": 700
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02354-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02354-02",
+        "n_patches": 520
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02357-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02357-02",
+        "n_patches": 416
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02382-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02382-03",
+        "n_patches": 612
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02384-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02384-01",
+        "n_patches": 1211
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02389-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02389-01",
+        "n_patches": 893
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02392-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02392-01",
+        "n_patches": 2782
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02399-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02399-01",
+        "n_patches": 565
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02403-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02403-01",
+        "n_patches": 536
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02408-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02408-02",
+        "n_patches": 559
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02409-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02409-03",
+        "n_patches": 1723
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02411-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02411-02",
+        "n_patches": 745
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02412-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02412-01",
+        "n_patches": 990
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02449-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02449-01",
+        "n_patches": 1599
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02468-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02468-03",
+        "n_patches": 495
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02545-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02545-03",
+        "n_patches": 495
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02555-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02555-03",
+        "n_patches": 156
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02557-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02557-02",
+        "n_patches": 598
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02602-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02602-02",
+        "n_patches": 684
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02741-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02741-01",
+        "n_patches": 491
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02744-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02744-01",
+        "n_patches": 369
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02746-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02746-01",
+        "n_patches": 715
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02747-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02747-02",
+        "n_patches": 593
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02800-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02800-01",
+        "n_patches": 668
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02802-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02802-02",
+        "n_patches": 345
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02894-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02894-02",
+        "n_patches": 1079
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02953-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02953-01",
+        "n_patches": 704
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-02990-08",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-02990-08",
+        "n_patches": 784
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-03143-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-03143-01",
+        "n_patches": 405
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-03264-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-03264-01",
+        "n_patches": 144
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-03467-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-03467-01",
+        "n_patches": 803
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-03589-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-03589-03",
+        "n_patches": 450
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-05571-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-05571-03",
+        "n_patches": 391
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-05848-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-05848-01",
+        "n_patches": 703
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3L-05849-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3L-05849-02",
+        "n_patches": 828
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00151-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00151-03",
+        "n_patches": 1305
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00155-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00155-04",
+        "n_patches": 1523
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00200-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00200-02",
+        "n_patches": 984
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00321-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00321-01",
+        "n_patches": 1186
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00322-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00322-03",
+        "n_patches": 1639
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00323-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00323-02",
+        "n_patches": 876
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00324-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00324-04",
+        "n_patches": 99
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00326-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00326-01",
+        "n_patches": 1644
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00328-05",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00328-05",
+        "n_patches": 935
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00333-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00333-03",
+        "n_patches": 668
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00334-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00334-02",
+        "n_patches": 1388
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00335-05",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00335-05",
+        "n_patches": 1619
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00337-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00337-03",
+        "n_patches": 478
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00339-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00339-02",
+        "n_patches": 1963
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00340-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00340-03",
+        "n_patches": 1895
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00377-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00377-02",
+        "n_patches": 2545
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00379-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00379-01",
+        "n_patches": 2233
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00383-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00383-04",
+        "n_patches": 1743
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00386-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00386-02",
+        "n_patches": 1600
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00388-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00388-01",
+        "n_patches": 1357
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00389-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00389-04",
+        "n_patches": 2120
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00520-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00520-01",
+        "n_patches": 800
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00729-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00729-03",
+        "n_patches": 302
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00732-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00732-01",
+        "n_patches": 118
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00734-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00734-03",
+        "n_patches": 509
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00743-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00743-01",
+        "n_patches": 1709
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00750-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00750-02",
+        "n_patches": 1083
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00753-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00753-01",
+        "n_patches": 944
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00755-71",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00755-71",
+        "n_patches": 404
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00836-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00836-02",
+        "n_patches": 1745
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00847-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00847-01",
+        "n_patches": 2023
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00848-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00848-02",
+        "n_patches": 1644
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00850-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00850-02",
+        "n_patches": 986
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00858-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00858-04",
+        "n_patches": 617
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00859-05",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00859-05",
+        "n_patches": 494
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00860-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00860-04",
+        "n_patches": 155
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00866-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00866-01",
+        "n_patches": 1109
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00872-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00872-02",
+        "n_patches": 429
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-00880-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-00880-04",
+        "n_patches": 262
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01003-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01003-01",
+        "n_patches": 310
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01007-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01007-01",
+        "n_patches": 400
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01008-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01008-02",
+        "n_patches": 103
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01079-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01079-01",
+        "n_patches": 3377
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01171-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01171-03",
+        "n_patches": 363
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01172-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01172-01",
+        "n_patches": 290
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01211-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01211-01",
+        "n_patches": 1512
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01212-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01212-03",
+        "n_patches": 2030
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01217-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01217-01",
+        "n_patches": 2052
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01219-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01219-03",
+        "n_patches": 1430
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01267-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01267-03",
+        "n_patches": 1126
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01341-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01341-02",
+        "n_patches": 311
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01342-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01342-02",
+        "n_patches": 410
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01344-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01344-03",
+        "n_patches": 328
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01346-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01346-03",
+        "n_patches": 266
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01349-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01349-02",
+        "n_patches": 294
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01510-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01510-02",
+        "n_patches": 2142
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01520-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01520-01",
+        "n_patches": 1240
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01521-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01521-01",
+        "n_patches": 753
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01525-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01525-02",
+        "n_patches": 1186
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01526-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01526-01",
+        "n_patches": 1049
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01529-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01529-02",
+        "n_patches": 1607
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01537-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01537-01",
+        "n_patches": 1620
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01761-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01761-01",
+        "n_patches": 138
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01764-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01764-01",
+        "n_patches": 467
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01765-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01765-01",
+        "n_patches": 446
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01766-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01766-04",
+        "n_patches": 228
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01802-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01802-01",
+        "n_patches": 497
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01825-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01825-03",
+        "n_patches": 681
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01830-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01830-02",
+        "n_patches": 887
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01843-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01843-01",
+        "n_patches": 1070
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01847-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01847-02",
+        "n_patches": 749
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01848-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01848-01",
+        "n_patches": 1124
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01871-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01871-04",
+        "n_patches": 225
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01873-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01873-03",
+        "n_patches": 243
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01874-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01874-01",
+        "n_patches": 867
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01875-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01875-01",
+        "n_patches": 912
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01876-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01876-01",
+        "n_patches": 345
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01877-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01877-04",
+        "n_patches": 773
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01878-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01878-01",
+        "n_patches": 1039
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01879-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01879-01",
+        "n_patches": 288
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-01880-04",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-01880-04",
+        "n_patches": 469
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02012-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02012-01",
+        "n_patches": 171
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02027-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02027-01",
+        "n_patches": 1047
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02028-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02028-03",
+        "n_patches": 1106
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02030-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02030-02",
+        "n_patches": 1414
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02061-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02061-02",
+        "n_patches": 1415
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02062-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02062-03",
+        "n_patches": 1301
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02244-72",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02244-72",
+        "n_patches": 686
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02247-72",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02247-72",
+        "n_patches": 384
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02249-75",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02249-75",
+        "n_patches": 878
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02253-74",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02253-74",
+        "n_patches": 1034
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02271-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02271-01",
+        "n_patches": 169
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02274-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02274-01",
+        "n_patches": 472
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02298-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02298-02",
+        "n_patches": 194
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02302-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02302-02",
+        "n_patches": 486
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02337-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02337-02",
+        "n_patches": 1131
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02372-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02372-01",
+        "n_patches": 2363
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02436-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02436-01",
+        "n_patches": 1672
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02437-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02437-02",
+        "n_patches": 1208
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02595-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02595-01",
+        "n_patches": 877
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02598-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02598-01",
+        "n_patches": 552
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02631-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02631-02",
+        "n_patches": 534
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02632-05",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02632-05",
+        "n_patches": 867
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02635-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02635-01",
+        "n_patches": 701
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02636-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02636-02",
+        "n_patches": 575
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02637-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02637-02",
+        "n_patches": 725
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02639-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02639-02",
+        "n_patches": 758
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02678-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02678-02",
+        "n_patches": 206
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02789-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02789-01",
+        "n_patches": 343
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02947-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02947-03",
+        "n_patches": 1420
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02972-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02972-01",
+        "n_patches": 542
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02976-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02976-01",
+        "n_patches": 336
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02978-02",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02978-02",
+        "n_patches": 312
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02979-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02979-01",
+        "n_patches": 825
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-02994-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-02994-01",
+        "n_patches": 241
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-03005-03",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-03005-03",
+        "n_patches": 757
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-03415-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-03415-01",
+        "n_patches": 562
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-03417-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-03417-01",
+        "n_patches": 340
+      }
+    ]
+  },
+  {
+    "patient_id": "UCEC::C3N-03767-01",
+    "cancer": "UCEC",
+    "slides": [
+      {
+        "slide_id": "C3N-03767-01",
+        "n_patches": 814
+      }
+    ]
+  }
+]

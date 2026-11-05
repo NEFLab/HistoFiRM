@@ -1,0 +1,38 @@
+{
+  "source": "DeepPT author source, Zenodo record 11125591",
+  "source_url": "https://zenodo.org/records/11125591",
+  "license": "Solely non-commercial academic research. Commercial use requires author permission. Source copyright headers retained.",
+  "files": {
+    "model_AE.py": {
+      "sha256": "d3dc30d6180456453f337967a98abf0c08f2231b3068054563b9a48aec9a51e5",
+      "bytes": 8947
+    },
+    "1main_train.py": {
+      "sha256": "12b9d4ba7cbfdec360d10f0a24ec21298419a6773dd702230b47df1d8919cafb",
+      "bytes": 3441
+    },
+    "1main_AE.py": {
+      "sha256": "0eaf3da1a9b084e8420ffc65abb1c06f6d0b993a6ce647673ef14a5840f58f7f",
+      "bytes": 4219
+    },
+    "utils.py": {
+      "sha256": "9ff38db236251f31a4c0008e97ad512445d0552b22e21efb9054771a4404c73e",
+      "bytes": 4462
+    },
+    "model_MLP.py": {
+      "sha256": "5cde02105092adf7eed679f9930c418abd7f6a61c20db107480ac1a8261f936d",
+      "bytes": 10622
+    }
+  },
+  "class_loading": "Exact AST class body from hash-bound original file; no utils or command-line side effects",
+  "adaptation": [
+    "input1536 vs original2048",
+    "AE decoder terminal ReLU replaced by Identity for signed UNI2H; encoder unchanged",
+    "patient-level patch-count aggregation rather than treating multiple slides independently",
+    "fold-local inner AE and full outer refit (no test/external unsupervised fit)",
+    "target standardization and validation-MSE epoch selection are benchmark adaptations; original author regression uses validation correlation",
+    "AE max500 with patience25 selected on inner reconstruction; new early stop adaptation; regression max500 patience50",
+    "No extra ReLU added to original regression layer0",
+    "No encoder weights or public task weights downloaded; reuse existing features and random task initialization"
+  ]
+}

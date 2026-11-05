@@ -1,0 +1,40 @@
+{
+  "protocol_id": "WSI_M1_BASELINE_20260912_V1",
+  "production": true,
+  "reference_config": {
+    "seed": 2025,
+    "inner_fraction": 0.2,
+    "inner_policy": "PER_CANCER_HASH_HOLDOUT_FROM_ORIGINAL_OUTER_TRAIN",
+    "ridge_alphas": [
+      1,
+      10,
+      100,
+      1000
+    ],
+    "mlp": {
+      "hidden": [
+        512,
+        256
+      ],
+      "dropout": 0.1,
+      "lr": 0.0002,
+      "weight_decay": 0.0001,
+      "batch_size": 32,
+      "max_epochs": 100,
+      "patience": 10
+    }
+  },
+  "statistics": {
+    "B": 2000,
+    "seed": 20260912,
+    "min_n": 10,
+    "type": "DIAGNOSTIC_95CI_NO_NEW_P_Q_FWER"
+  },
+  "max_unit_wall_seconds": 43200,
+  "release": "M1A_ONLY",
+  "allowed_actions": [
+    "fit_reference",
+    "infer_reference",
+    "evaluate_frozen"
+  ]
+}
