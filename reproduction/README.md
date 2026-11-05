@@ -10,7 +10,7 @@ This supplement to the HistoFiRM code repository contains the fixed study partit
 - benchmarks/: the adapted Ridge/MLP, DeepPT, SEQUOIA and HE2RNA numerical implementations and training/inference entry points.
 - weights/: reserved for locally trained checkpoints; no original weights are supplied.
 
-Use the HistoFiRM repository at https://github.com/NEFLab/HistoFiRM for the main package. The manuscript code verification used commit 4c530a2e9d45cac8edc3bc6d5fbf9e1252430c27. This add-on has not yet been included in that commit.
+This directory complements the main HistoFiRM package in the repository root at https://github.com/NEFLab/HistoFiRM. Install the main package before running the commands below. Fixed study materials and adapted comparator implementations are kept here so that their scope and input requirements remain explicit.
 
 ## HistoFiRM workflow
 
