@@ -1,0 +1,39 @@
+{
+  "method": "Gated-ABMIL (UNI2-h multioutput regression control)",
+  "architecture_reference": "https://proceedings.mlr.press/v80/ilse18a.html",
+  "training_recipe_reference": "https://doi.org/10.64898/2026.05.05.723013",
+  "not_claimed_as": [
+    "native CAMIL",
+    "complete TME-WSI reproduction"
+  ],
+  "architecture": {
+    "encoder": [
+      1536,
+      512,
+      "ReLU"
+    ],
+    "gated_attention_hidden": 256,
+    "head": [
+      512,
+      1564
+    ],
+    "dropout": 0.25,
+    "pool": "softmax-normalized gated attention"
+  },
+  "max_epochs": 300,
+  "min_epochs": 25,
+  "patience": 20,
+  "learning_rate": 0.0002,
+  "weight_decay": 1e-05,
+  "optimizer": "Adam",
+  "batch_patients": 64,
+  "seed": 2025,
+  "selection": "minimum validation cancer-balanced masked target-standardized MSE",
+  "adaptations": [
+    "shared 1564-output head, rather than separate scalar phenotype models",
+    "UNI2-h input replaces original image encoder",
+    "training-only feature and cancer-specific target standardization",
+    "fixed patient five-fold partitions; all retained tiles; 8000 per-slide cap inherited from shared cache",
+    "same refit and five-fold external ensemble; no external labels in training"
+  ]
+}

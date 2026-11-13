@@ -73,3 +73,10 @@ Acquire MSigDB gene sets and UNI2-h weights directly from their providers. UNI2-
 ## Scope
 
 The main package and this add-on supply numerical code, identifiers and settings. They are not a self-contained distribution of all study data. Original checkpoints are intentionally not released. Figures and aggregate supplementary results accompany the manuscript separately. Do not describe this bundle as an end-to-end numerical replication of the full study.
+
+## Additional patient-level comparisons and complete Hallmark analyses
+
+- [Extended comparators](benchmarks/extended/README.md): gated-ABMIL, MOSBY and TIGER direct programme regression; RNAPath and Path2Omics gene-mediated regression. These independent adaptations share the fixed patient partitions and feature source, with method-specific protocols retained.
+- [Hallmark analyses](analyses/hallmark/README.md): patient-bootstrap intervals for raw and composition-conditioned correlations, paired changes and cross-cohort Fisher contrasts (S34–S36), followed by cross-method/cross-cohort profile summaries and 38 intervals (S37).
+
+Keep the existing study partitions, core package and weights placeholder. The new directories extend the current release. They do not contain patient arrays, original checkpoints or historical job orchestration. CPU checks and source-function comparisons support the release; full GPU training has not been repeated for packaging.

@@ -1,0 +1,55 @@
+{
+  "rnapath": {
+    "method": "RNAPath (UNI2-h, per-cancer gene-mediated adaptation)",
+    "source": "https://github.com/GlastonburyC/RNAPath",
+    "commit": "dba21fe6327fe33876435f28d6dcdfc747b6502e",
+    "lr": 0.0001,
+    "weight_decay": 0.001,
+    "optimizer": "AdamW, as active author helper",
+    "epochs": 200,
+    "min_epochs": 31,
+    "patience": 20,
+    "batch": 16,
+    "selection": "minimum validation raw gene MSE",
+    "scheduler": "ReduceLROnPlateau factor0.1 patience10",
+    "architecture": "gene-wise affine, per-tile ReLU then mean; representation dropout0.1; random retained bag fraction0.7\u20131.0",
+    "adaptations": [
+      "UNI2-h 1536 replaces the original encoders; fixed original patch cache and per-slide 8000 cap",
+      "separate model for each of 16 cancer types, using the same frozen patient outer/inner folds as current HistoFiRM",
+      "raw decoded log2(TPM+1) targets for 18977 fixed genes, no negative standardized targets before RNAPath ReLU",
+      "training-only patient-balanced feature centering/scaling within cancer",
+      "TCGA outer-fold OOF; external average decoded gene predictions across 5 folds, max0, then frozen FT01",
+      "selected epochs and learning-rate sequence replayed on outer-train from identical initialization",
+      "training BF16 autocast; final inference FP32 with TF32 matrix arithmetic enabled",
+      "batch16 instead of author batch1 for common-feature execution; all genes jointly vectorized",
+      "no overlapping retiling or original DINO pretraining; original 23 healthy-tissue scope replaced by16 cancers"
+    ]
+  },
+  "path2omics": {
+    "method": "Path2Omics (UNI2-h, FFPE gene-mediated adaptation)",
+    "source": "https://github.com/danhtaihoang/path2omics",
+    "commit": "f7db79e6364d67d3b27b4b57876d2d48c4778e3a",
+    "lr": 0.0001,
+    "weight_decay": 0.0,
+    "optimizer": "Adam",
+    "epochs": 500,
+    "min_epochs": 1,
+    "patience": 50,
+    "batch": 32,
+    "selection": "maximum validation mean gene Pearson",
+    "scheduler": "constant",
+    "architecture": "affine1536\u2192512, dropout0.2, affine\u219218977, mean pooling; no hidden ReLU in active author code",
+    "adaptations": [
+      "UNI2-h 1536 replaces the original encoders; fixed original patch cache and per-slide 8000 cap",
+      "separate model for each of 16 cancer types, using the same frozen patient outer/inner folds as current HistoFiRM",
+      "raw decoded log2(TPM+1) targets for 18977 fixed genes, no negative standardized targets before RNAPath ReLU",
+      "training-only patient-balanced feature centering/scaling within cancer",
+      "TCGA outer-fold OOF; external average decoded gene predictions across 5 folds, max0, then frozen FT01",
+      "selected epochs and learning-rate sequence replayed on outer-train from identical initialization",
+      "training BF16 autocast; final inference FP32 with TF32 matrix arithmetic enabled",
+      "FFPE-only branch; no fresh-frozen data or FF/FFPE integrated-model reproduction",
+      "one shared 18977-gene head; current author source is pinned, not assumed byte-identical to publication release",
+      "select best epoch and refit rather than returning the final patience epoch"
+    ]
+  }
+}

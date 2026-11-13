@@ -34,6 +34,10 @@ correct_risk_family requires both cohorts and both CHF forms, preserving four te
 
 Endpoint origins follow each source. Administrative truncation does not make diagnosis, surgery and imaging dates equivalent.
 
+## Complete Hallmark and cross-method profiles
+
+The [Hallmark study entry points](../reproduction/analyses/hallmark/README.md) extend the original composition functions with patient-resampling intervals. Composition nuisance models are refitted in each replicate. Programme axes and matched support are fixed; patient resampling is shared across programmes and, for cross-method analyses, across models. The cross-cohort profile contrast uses independent cohort draws. These intervals exclude retraining uncertainty and are not simultaneous confidence bands. Original percentile-interval offset flags remain in the complete output.
+
 ## Reproduction boundary
 
-This is the current main model and principal numerical analysis code. Historical training branches, server orchestration, benchmark reimplementations, complete figure-layout scripts and source patient-level assets are excluded. Study figures and complete comparisons are supplied with manuscript source data. Exact reconstruction of every reported number also requires bound inputs, split manifests, checkpoints and original runtime versions.
+The core package and [adapted comparator entry points](../reproduction/README.md) are included. The [extended comparators](../reproduction/benchmarks/extended/README.md) add five patient-level configurations. Historical job queues, complete publication-layout scripts, source patient arrays and original trained checkpoints are excluded. Study figures and complete numerical comparisons accompany the manuscript. Exact numerical reconstruction also requires the matching inputs, fixed partitions, resource versions and runtime. The release tests do not constitute a repeat of all study training runs.

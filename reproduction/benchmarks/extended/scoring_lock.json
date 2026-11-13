@@ -1,0 +1,17 @@
+{
+  "ascending": false,
+  "correl_norm_type": "rank",
+  "float_tolerance": 1e-8,
+  "ordinary_primary": "ssgsea_raw_es",
+  "ordinary_sensitivity": "centered_rank_mean",
+  "permutation_num": 0,
+  "required_gseapy_version": "1.3.0",
+  "sample_chunk_size": 64,
+  "sample_norm_method": "rank",
+  "score_all_max_mapped_genes": 10000,
+  "score_all_min_mapped_genes": 5,
+  "seed": 2025,
+  "term_batch_size": 256,
+  "threads_per_scoring_process": 1,
+  "weight": 0.25
+}

@@ -1,0 +1,17 @@
+{
+  "models": [
+    "HistoFiRM_ARCHIVED",
+    "Same_split_Ridge_ARCHIVED",
+    "GATED_ABMIL_REGRESSION",
+    "MOSBY_UNI2H_ADAPTED",
+    "TIGER_UNI2H_ADAPTED",
+    "PATH2OMICS_UNI2H_FFPE_GENE_ADAPTED",
+    "RNAPATH_UNI2H_GENE_ADAPTED"
+  ],
+  "replicates": 2000,
+  "minimum_valid": 1900,
+  "bootstrap_seed": 20261110,
+  "quantile_method": "linear",
+  "point_tolerance": 1e-10,
+  "no_clipping_of_pearson_for_fisher_transform": true
+}

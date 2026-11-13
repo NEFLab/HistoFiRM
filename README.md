@@ -42,6 +42,11 @@ Use a new output directory for each training run. Input paths in a patient manif
 
 The [study reproduction directory](reproduction/README.md) provides the fixed TCGA partitions, CPTAC evaluation register, numerical settings and adapted comparator entry points. A real study run also requires feature arrays, RNA/clinical inputs and the specified resource versions, obtained under their providers' terms. These inputs and original trained checkpoints are not bundled. The synthetic example does not reproduce the paper's numerical results. See [data requirements](docs/data.md).
 
+
+## Extended comparisons and Hallmark profiles
+
+The [extended comparator directory](reproduction/benchmarks/extended/README.md) contains the patient-level gated-ABMIL, MOSBY, TIGER, RNAPath and Path2Omics adaptations. The [Hallmark analysis directory](reproduction/analyses/hallmark/README.md) provides the complete-panel composition, cross-cohort and cross-method patient-bootstrap analyses for Tables S34–S37. These entry points use explicit data manifests and retain the study's fixed estimation rules. Input arrays, source gene-set resources and original trained checkpoints are not bundled.
+
 ## Code map
 
 | Component | Modules |
