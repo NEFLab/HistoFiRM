@@ -1,6 +1,19 @@
 # Hallmark predictability analyses
 
-This directory implements the complete 50-programme patient-level analyses in Tables S34–S37. Numerical kernels are carried over from the executed analyses. Inputs must contain aligned, fixed predictions; these scripts do not train models or reconstruct predictions from summary tables.
+This directory implements the complete 50-programme patient-level analyses in current Supplementary Tables S05–S07. Numerical kernels are carried over from the executed analyses. Inputs must contain aligned, fixed predictions; these scripts do not train models or reconstruct predictions from summary tables.
+
+## Table-number mapping
+
+The command options and generated filenames retain their analysis identifiers. Their current manuscript locations are:
+
+| Retained identifier | Current supplementary table | Analysis |
+|---|---|---|
+| S34 | S06 | Raw Hallmark correlations and fixed-panel means |
+| S35 | S05 | Composition-conditioned associations and paired changes |
+| S36 | S06 | Cross-cohort Fisher-z contrasts |
+| S37 | S07 | Cross-method and cross-cohort profile correspondence |
+
+This renumbering does not change the calculations, inputs or output schemas.
 
 ## Environment and checks
 
@@ -10,7 +23,7 @@ python reproduction/analyses/hallmark/test_hallmark_core.py
 python reproduction/analyses/hallmark/test_profile_core.py
 ```
 
-## S34–S36: single-model and composition analyses
+## Single-model and composition analyses
 
 Supply `TCGA.npz` and `CPTAC.npz`, each containing:
 
@@ -26,7 +39,7 @@ Supply `TCGA.npz` and `CPTAC.npz`, each containing:
 
 Preserve the original patient order, fold binding and eligibility decisions. Do not infer nuisance folds from the order of a newly sorted table. In the study, the original three-fold nuisance partitions used shuffled KFold with random state `20260926 + outer_fold` within the original ordered eligible stratum. Ineligible strata had fewer than 15 patients. The registration count of 5,660 is not the analysed support of 5,646.
 
-Use the complete S34 and S35 CSV files from the supporting tables as reference estimates:
+Use the complete raw-association and composition reference exports as the S34 and S35 inputs below. These command-line flags retain their original identifiers. In the current electronic supplement, raw Hallmark estimates are in Table S06 and composition estimates are in Table S05. Follow the electronic supplement's format map and reader guide when restoring a Parquet export to CSV; do not replace the reference with a rounded summary.
 
 ```bash
 python reproduction/analyses/hallmark/prepare_analysis.py hallmark --tcga data/hallmark/TCGA.npz --cptac data/hallmark/CPTAC.npz --s34 data/tables/S34_RAW_HALLMARK.csv --s35 data/tables/S35_COMPOSITION_HALLMARK.csv --output outputs/hallmark
@@ -35,7 +48,7 @@ python reproduction/analyses/hallmark/run_hallmark.py --root outputs/hallmark
 
 Preparation verifies every raw and matched composition estimate before writing the input gate. The run performs 2,000 patient resamples, retains intervals with at least 1,900 valid replicates, refits the nuisance regressions in each composition resample, and retains paired Δr. TCGA resampling preserves the original strata; CPTAC draws are independent. S36 uses `atanh(r_CPTAC) − atanh(r_TCGA)`. Only this S36 transform clips numerical endpoints by 1e−12, following its fixed protocol.
 
-## S37: cross-method and cross-cohort profiles
+## Cross-method and cross-cohort profiles (current Table S07)
 
 Supply a second pair of cohort NPZ files with the same identity, cancer and target arrays. Here `P` is n × 7 × 50 and `models` follows `profile_config.json`. `targets` must be sorted by original ID. TCGA `outer` contains its original folds; CPTAC `outer` is an all-zero vector. All seven predictions share the same patient and target support. `Y` remains n × 50.
 

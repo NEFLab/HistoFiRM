@@ -2,7 +2,7 @@
 
 HistoFiRM predicts patient-level RNA-derived functional scores from whole-slide histology feature bags. It combines a cancer-specific Ridge anchor with learned means and variances of patch embeddings, a low-rank cancer adapter, and training-only Hallmark supervision.
 
-This repository contains the current numerical implementation, portable training and inference commands, and the principal downstream analysis functions. It accompanies *Whole-slide histology captures interpatient variation in transcriptional programmes across human cancers*.
+This repository contains the current numerical implementation, portable training and inference commands, and the principal downstream analysis functions. It accompanies *Whole-slide histology predicts interpatient variation in transcriptional programmes across human cancers*.
 
 <img width="2600" height="1951" alt="Fig1_20261104_ACCEPTED_NAMES_20261104" src="https://github.com/user-attachments/assets/7d0bf751-76e8-4c18-9eba-748d3601612b" />
 
@@ -45,7 +45,7 @@ The [study reproduction directory](reproduction/README.md) provides the fixed TC
 
 ## Extended comparisons and Hallmark profiles
 
-The [extended comparator directory](reproduction/benchmarks/extended/README.md) contains the patient-level gated-ABMIL, MOSBY, TIGER, RNAPath and Path2Omics adaptations. The [Hallmark analysis directory](reproduction/analyses/hallmark/README.md) provides the complete-panel composition, cross-cohort and cross-method patient-bootstrap analyses for Tables S34–S37. These entry points use explicit data manifests and retain the study's fixed estimation rules. Input arrays, source gene-set resources and original trained checkpoints are not bundled.
+The [extended comparator directory](reproduction/benchmarks/extended/README.md) contains the patient-level gated-ABMIL, MOSBY, TIGER, RNAPath and Path2Omics adaptations. The [Hallmark analysis directory](reproduction/analyses/hallmark/README.md) provides the complete-panel composition, cross-cohort and cross-method patient-bootstrap analyses for the analyses reported in Supplementary Tables S05–S07. Legacy S34–S37 identifiers are retained in command options and output filenames; the mapping is documented in the analysis README. These entry points use explicit data manifests and retain the study's fixed estimation rules. Input arrays, source gene-set resources and original trained checkpoints are not bundled.
 
 ## Code map
 

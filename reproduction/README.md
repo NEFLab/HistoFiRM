@@ -77,6 +77,6 @@ The main package and this add-on supply numerical code, identifiers and settings
 ## Additional patient-level comparisons and complete Hallmark analyses
 
 - [Extended comparators](benchmarks/extended/README.md): gated-ABMIL, MOSBY and TIGER direct programme regression; RNAPath and Path2Omics gene-mediated regression. These independent adaptations share the fixed patient partitions and feature source, with method-specific protocols retained.
-- [Hallmark analyses](analyses/hallmark/README.md): patient-bootstrap intervals for raw and composition-conditioned correlations, paired changes and cross-cohort Fisher contrasts (S34–S36), followed by cross-method/cross-cohort profile summaries and 38 intervals (S37).
+- [Hallmark analyses](analyses/hallmark/README.md): patient-bootstrap intervals for raw and composition-conditioned correlations, paired changes and cross-cohort Fisher contrasts (current Tables S05–S06), followed by cross-method/cross-cohort profile summaries and 38 intervals (current Table S07). The analysis README maps the retained S34–S37 command and output identifiers to these current tables.
 
 Keep the existing study partitions, core package and weights placeholder. The new directories extend the current release. They do not contain patient arrays, original checkpoints or historical job orchestration. CPU checks and source-function comparisons support the release; full GPU training has not been repeated for packaging.
